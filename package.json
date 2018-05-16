@@ -1,0 +1,23 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "Travel site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najibbom/travel-site.git"
+  },
+  "author": "Najib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/najibbom/travel-site/issues"
+  },
+  "homepage": "https://github.com/najibbom/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
